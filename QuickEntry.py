@@ -3,7 +3,7 @@
 import datetime
 import time
 
-DailyNotesFolder = ""      # Change this to the location of your daily notes folder.
+DailyNotesFolder = ""      # Change this to the location of your daily notes folder. (E.g. C:/Users/John/Obsidian/Daily Notes)
 
 
 def currentDailyNote():
