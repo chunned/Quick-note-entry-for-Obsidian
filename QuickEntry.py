@@ -3,8 +3,7 @@
 import datetime
 import time
 
-ObsidianVaultFolder = ""   # CHANGE THIS
-DailyNotesFolder = ""      # CHANGE THIS
+DailyNotesFolder = ""      # Change this to the location of your daily notes folder.
 
 
 def currentDailyNote():
