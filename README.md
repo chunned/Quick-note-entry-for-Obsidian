@@ -4,7 +4,7 @@ A simple Python script used to quickly add a new entry to your Daily Notes in th
 After initial setup, simply run the program
 ![](https://i.imgur.com/rofEFGs.png)
 
-**Note:** This program assumes your daily notes are named `YYYY-MM-DD.md`. 
+**Note:** This program assumes your daily note files are named `YYYY-MM-DD.md`. 
 
 # Getting Started
 
