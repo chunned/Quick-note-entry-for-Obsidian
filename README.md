@@ -8,7 +8,7 @@ After initial setup, simply run the program
 
 # Getting Started
 
-1. Open the obsidianQuicNoteEntry.py file in a text editor or IDE. 
+1. Open the QuickEntry.py file in a text editor or IDE. 
 2. **Navigate to line 6.** Enter the path to the directory where you store your daily notes in between the quotation marks. **Note: if you use Windows, change all \ to /** - so `C:\Path\to\vault` becomes `C:/Path/to/vault`
 3. **Navigate to lines 28-31.** Choose which folder naming convention you use.
 
